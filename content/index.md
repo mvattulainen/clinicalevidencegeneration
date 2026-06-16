@@ -29,17 +29,6 @@ This knowledge based in maintained by [[me]] Markus and my [[AI-assistant]]. Unl
 It would be wonderful if you want to [[engage]] with the knowledge base.
 
 
-TEST
-
-```mermaid  
-flowchart TD  
-A[Capture idea in Obsidian] --> B[Write Markdown note]  
-B --> C{Contains Mermaid block?}  
-C -->|Yes| D[Quartz renders diagram]  
-C -->|No| E[Quartz renders normal note]  
-D --> F[Publish site]  
-E --> F  
-```
 
 
 
